@@ -1,2 +1,2 @@
 # TwoStreamVAN
-Coming soon (expected by the end of Jan 2020)
+Readme will be updated soon, feel free to try out the code.
